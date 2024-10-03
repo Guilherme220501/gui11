@@ -1,0 +1,11 @@
+body{align-items: center;justify-content: center;text-align: center;background:linear-gradient(to right,white,blue,black);}
+h1{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-style: oblique;font-size: 30px;text-shadow: 6px;text-decoration: underline;color: white;}
+h2{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;font-style: italic;font-size: 20px;text-shadow: 6px;color: white;}
+p{font-size: 20px;font-family: 'Courier New', Courier, monospace;font-style: initial;text-shadow: 6px;color: white;}
+dl{padding: 5px;}
+dt{font-size: 20px;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-style: initial;text-align: left;padding: 5px;}
+dd{font-size: 15px;font-style: inherit;font-family: Georgia, 'Times New Roman', Times, serif;text-shadow: 6px;padding: 5px;}
+thead{font-size: 20px;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-style: oblique;text-align: left;text-shadow: 6px;}
+tbody{font-size: 15px;font-style: inherit;font-family: 'Times New Roman', Times, serif;text-align: left;text-shadow: 6px;}
+tfoot{text-align: left;text-shadow: 6px;font-size: 20px;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-style: inherit;}
+summary{width: 230px;margin: auto;border-radius: 10px 10px;text-shadow: 6px;}
