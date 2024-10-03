@@ -4,7 +4,7 @@ h2{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida 
 p{font-size: 20px;font-family: 'Courier New', Courier, monospace;font-style: initial;text-shadow: 6px;color: white;}
 dl{padding: 5px;}
 dt{font-size: 20px;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-style: initial;text-align: left;padding: 5px;}
-dd{font-size: 15px;font-style: inherit;font-family: Georgia, 'Times New Roman', Times, serif;text-shadow: 6px;padding: 5px;}
+dd{font-size: 15px;font-style: inherit;font-family: Georgia, 'Times New Roman', Times, serif;text-shadow: 6px;padding: 5px;text-align: left;}
 thead{font-size: 20px;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-style: oblique;text-align: left;text-shadow: 6px;}
 tbody{font-size: 15px;font-style: inherit;font-family: 'Times New Roman', Times, serif;text-align: left;text-shadow: 6px;}
 tfoot{text-align: left;text-shadow: 6px;font-size: 20px;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-style: inherit;}
